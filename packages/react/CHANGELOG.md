@@ -1,5 +1,40 @@
 # Change Log
 
+## 1.8.8
+
+### Patch Changes
+
+- Updated dependencies
+  [[`4b83824b8`](https://github.com/chakra-ui/chakra-ui/commit/4b83824b8a89e3eb1754af6ff9c330a93d0cdf17),
+  [`a3b04dc1a`](https://github.com/chakra-ui/chakra-ui/commit/a3b04dc1ae49ad0d804bddc17fdca3afa218665c)]:
+  - @chakra-ui/editable@1.4.2
+  - @chakra-ui/hooks@1.9.1
+  - @chakra-ui/accordion@1.4.11
+  - @chakra-ui/button@1.5.10
+  - @chakra-ui/checkbox@1.7.1
+  - @chakra-ui/counter@1.2.10
+  - @chakra-ui/form-control@1.5.11
+  - @chakra-ui/image@1.1.10
+  - @chakra-ui/menu@1.8.11
+  - @chakra-ui/modal@1.11.1
+  - @chakra-ui/number-input@1.4.7
+  - @chakra-ui/pin-input@1.7.10
+  - @chakra-ui/popover@1.11.9
+  - @chakra-ui/portal@1.3.10
+  - @chakra-ui/provider@1.7.14
+  - @chakra-ui/radio@1.5.1
+  - @chakra-ui/skeleton@1.2.14
+  - @chakra-ui/slider@1.5.11
+  - @chakra-ui/tabs@1.6.10
+  - @chakra-ui/toast@1.5.9
+  - @chakra-ui/tooltip@1.5.1
+  - @chakra-ui/switch@1.3.10
+  - @chakra-ui/system@1.12.1
+  - @chakra-ui/input@1.4.6
+  - @chakra-ui/select@1.2.11
+  - @chakra-ui/textarea@1.2.11
+  - @chakra-ui/avatar@1.3.11
+
 ## 1.8.7
 
 ### Patch Changes
